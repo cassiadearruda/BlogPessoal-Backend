@@ -1,0 +1,5 @@
+package cassiadearruda.BlogPessoalAPI.entity;
+
+public class UsuarioLogin {
+
+}

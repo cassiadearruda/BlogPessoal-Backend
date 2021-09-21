@@ -1,0 +1,5 @@
+package cassiadearruda.BlogPessoalAPI.controller;
+
+public class UsuarioController {
+
+}

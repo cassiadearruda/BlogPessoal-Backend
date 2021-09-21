@@ -1,0 +1,5 @@
+package cassiadearruda.BlogPessoalAPI.security;
+
+public class BasicSecurityConfig {
+
+}

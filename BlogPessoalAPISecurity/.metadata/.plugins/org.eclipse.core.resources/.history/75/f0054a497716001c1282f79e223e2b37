@@ -1,0 +1,5 @@
+package cassiadearruda.BlogPessoalAPI.service;
+
+public class UsuarioService {
+
+}
